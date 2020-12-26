@@ -1,0 +1,18 @@
+{
+  "name": "typescript-excercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "count.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.5"
+  }
+}
